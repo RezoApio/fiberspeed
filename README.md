@@ -53,7 +53,7 @@ with the following line to get a new mesure every 30 min
 0,30 * * * * /home/{YOUR_NAME_GOES_HERE}/speedtest.sh
 ```
 
-#What?
+# What?
 
 Generally I will get the results of my files with a nice one-liner like this
 ```shell script
@@ -71,12 +71,13 @@ pip3 install matplotlib
 
 # With?
 
-You should get something like that:
+You should get something like that:  
+
 ![My download speed](./Download.png)
 ![My upload speed](./Upload.png)
 
 
-#Yes but Why?
+# Yes but Why?
 I agree it is not so very useful except to brag a little and be happy of having Fiber internet at last.  
 In any case, we all agree that the ultimate download test is: What is this 8Gb game sitting in my Steam library that I have never tested? And 5 min later you discover a real fun new game: [Brutal Legend](https://store.steampowered.com/app/225260/Brutal_Legend/)!
 
